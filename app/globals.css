@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.themeColor{
+    background-color: #F9FAFC;
+};
+

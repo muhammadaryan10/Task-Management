@@ -1,0 +1,46 @@
+.Main {
+    width: 100%;
+    padding: 7px;
+    display: flex;
+}
+
+.themeBackgroundColor {
+    background-color: #F4F5FB;
+}
+
+.Right_Section {
+    width: 25%;
+    display: flex;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-left: 1px solid black;
+}
+
+.Left_Section {
+    display: flex;
+    width: 75%;
+    justify-content: space-between;
+}
+
+.title {
+    font-family: Pangram;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 33.6px;
+}
+
+.profileHeading {
+    font-family: Plus Jakarta Sans;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 15.12px;
+    text-align: left;
+}
+
+.profileSubHeading {
+    font-family: Plus Jakarta Sans;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 12.6px;
+    text-align: left;
+}
